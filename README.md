@@ -1,4 +1,4 @@
 # Extracting-text-from-Passport
 
 
-Objective:
+Objective: Detecting machine-readable-zones in a passport image
